@@ -3,8 +3,8 @@
 ## Requirements
 - Webpage that you can log into and see notifications.
   - locally hosted
-  - list of notifications with buttons that you can click
-    - 3 buttons:
+  - list of notifications with buttons that you can click (Done)
+    - 3 buttons: (done)
       * dismiss
       * postpone 1 hr
       * postpone 1 day
@@ -12,6 +12,7 @@
   - Every Sunday at 6:00pm
   - Hard coded
 - Ability to dismiss or postpone notifications
+  - Event listners on buttons (partially done)
   - Postpone for 1 hour, 1 day
 
 ## Things you haven't done before
@@ -20,4 +21,4 @@ Create app state and persist it locally
 Schedule tasks to ge run at certain intervals
 
 ## Todo
-* HTML File that has a list of <div> y cada <div> has a notification text and 3 buttons.
+* DONE: HTML File that has a list of <div> y cada <div> has a notification text and 3 buttons.
