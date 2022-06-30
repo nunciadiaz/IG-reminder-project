@@ -22,5 +22,3 @@ Schedule tasks to ge run at certain intervals
 
 ## Todo
 * DONE: HTML File that has a list of <div> y cada <div> has a notification text and 3 buttons.
-
-hiiiii
