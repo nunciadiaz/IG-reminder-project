@@ -12,7 +12,7 @@
   - Every Sunday at 6:00pm
   - Hard coded
 - Ability to dismiss or postpone notifications
-  - Event listners on buttons (partially done)
+  - Event listners on buttons (done)
   - Postpone for 1 hour, 1 day
 
 ## Things you haven't done before
